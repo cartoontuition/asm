@@ -1,7 +1,9 @@
 ## Сложные концепции наглядно
 
 Здесь хранятся материалы по темам, обсуждаемым в моих аккаунтах соцсетей:
+
 [Дедлайн Сегодня](https://www.youtube.com/channel/UCdOKZSwU5bFVnCmlKhcVPJg)
+
 [SimpleConstructs](https://www.instagram.com/simpleconstructs/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
